@@ -1,5 +1,5 @@
 Hello,
-This is simple cli app on POSTGRESQL hosted on neon db. password cannot be changed so db string has username mention password different.
+This is simple cli app on POSTGRESQL hosted on neon db. password cannot be changed so db string has username mentioned password different.
 
 connection string (.env also has) - DATABASE_URL="postgresql://users_owner:FXergW0iB1IA@ep-damp-smoke-a1ug0on3.ap-southeast-1.aws.neon.tech/sss_assignment_sep24?sslmode=require"
 
